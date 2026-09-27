@@ -1,4 +1,4 @@
-# TIC 1: Mini Proyecto 1
+# Mini Proyecto 1
 
 En este repositorio se encuentra la entrega de la actividad 1 y 2, del mini proyecto 1.
 
