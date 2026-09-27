@@ -1,6 +1,6 @@
 # TIC 1: Mini Proyecto 1
 
-##En este repositorio se encuentra la entrega de la actividad 1 y 2, del mini proyecto 1.
+###En este repositorio se encuentra la entrega de la actividad 1 y 2, del mini proyecto 1.
 
 Adjuntamos el informe y el código de la actividad 1, y un video tutorial para la actividad 2. 
 
