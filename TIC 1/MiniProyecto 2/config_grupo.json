@@ -1,0 +1,9 @@
+{
+  "player_id": "P01",
+  "username": "grupo01",
+  "password": "4wQClvR1fnUjKmgW",
+  "host": "tic-host.local",
+  "port": 22,
+  "remote_inbox": "/inbox",
+  "remote_outbox": "/outbox"
+}
